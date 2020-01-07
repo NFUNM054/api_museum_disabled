@@ -43,3 +43,17 @@
 | ------------------------ | -------- | ----------------- |
 | 聋哑人士想要更流畅跟人进行交流| ♥♥♥♥   | 实时语音识别API |
 | 多动症儿童想要找到感兴趣的展品 | ♥♥♥♥   | 室内地图API  |
+
+## 原型
+### 首页
+![博物馆——首页.JPG](https://upload-images.jianshu.io/upload_images/9476218-15e90928602ee998.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+### 语音识别功能
+![博物馆——语音识别.JPG](https://upload-images.jianshu.io/upload_images/9476218-6b873655f66b9f13.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+### 路线规划
+![博物馆——路线规划.JPG](https://upload-images.jianshu.io/upload_images/9476218-daf5d2918b1f63bb.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+### 原型文档
+- [查看原型](http://nfunm054.gitee.io/api_museum_disabled/#g=1)
+- [下载原型rp文档](https://github.com/NFUNM054/api_museum_disabled/blob/master/API%E2%80%94%E2%80%94%E5%8D%9A%E7%89%A9%E9%A6%86.rp)
