@@ -56,4 +56,4 @@
 
 ### 原型文档
 - [查看原型](http://nfunm054.gitee.io/api_museum_disabled/#g=1)
-- [下载原型rp文档](https://github.com/NFUNM054/api_museum_disabled/blob/master/API%E2%80%94%E2%80%94%E5%8D%9A%E7%89%A9%E9%A6%86.rp)
+- [下载原型rp文档](https://gitee.com/NFUNM054/api_museum_disabled/blob/master/API%E2%80%94%E2%80%94%E5%8D%9A%E7%89%A9%E9%A6%86.rp)
